@@ -61,9 +61,8 @@ for(i=100; i>0; i-=5){
 
 
 console.log("Display the square numbers, counting down from 100. ");
-for(i=100; i>0; i--){
-    if((i*i<100)){
-        console.log((i*i));
-    }
+for (i=10; i> 0 ; i--){
+    console.log(i*i);
 }
+
 
