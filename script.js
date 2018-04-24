@@ -27,9 +27,9 @@ for (i=5; i<101; i+=5){
 
 
 console.log("Display the square numbers  up to 100. ");
-for(i=2; (i*i)<101;i++){
-    var sqr = i*i;
-   console.log(sqr);
+for(i=1; i<=10;i++){
+
+   console.log(i*i);
 }
 
 
